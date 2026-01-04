@@ -1,0 +1,4 @@
+Out
+Falafel,5,1.5
+Tea,6,10
+Fool,3,12

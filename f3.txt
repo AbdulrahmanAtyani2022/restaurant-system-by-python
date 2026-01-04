@@ -1,0 +1,7 @@
+In
+Hummous,4,15.0
+Fool,3,14.0
+Falafel,15,1.5
+Tea,5,4.0
+Cola,2,5.0
+Water,8,3.0

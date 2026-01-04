@@ -1,0 +1,23 @@
+your input in    Hummous,15.0,-9    of Orders in resturant are invalid
+your input in    fvnjfvn,7,14.0    of Orders in resturant are invalid
+your input in    Okkkdkfnk    of Orders in resturant are invalid
+your input in    Falafel,12    of Orders in resturant are invalid
+
+ Daily Sales Summary:
+--------------------
+Total orders: 3
+Orders In-Restaurant: 2
+	Hummous (dishes): 4
+	Fool (dishes): 3
+	Falafel (portions): 15
+	Tea (cups): 5
+	Cola (cans): 2
+	Water (bottles): 8
+Orders Takeaway: 1
+	Hummous (dishes): 0
+	Fool (dishes): 3
+	Falafel (portions): 5
+	Tea (cups): 6
+	Cola (cans): 0
+	Water (bottles): 0
+In is bigger than Out
